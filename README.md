@@ -1,4 +1,4 @@
-# 🚁 QuadroControl (Квадроконтр)
+# 🚁 Квадро Контрол
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)](https://www.android.com)
